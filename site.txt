@@ -1,0 +1,13 @@
+2 apps
+1. admin login , params - block , total hours , dtaes, slots;
+2. interface ,
+		a. html dat
+		b.time picker
+		c. slotss : 10-11 , 11-12;
+		D.HMTL BUTTON , JS;
+		e. Checker in admin ; key - name/time; - slots
+		f. form if slots == false ; display;
+		g. timezone py
+		h. APi-admin ; saaaaaaare posssssibilties , post
+		i.beautifulSoup format , acha dikhega
+		
